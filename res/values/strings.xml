@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">WithoutLayout</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_the_developer_world_is_yours">TheDeveloperWorldIsYours</string>
+
+</resources>
